@@ -21,12 +21,12 @@ Twitter: [Youwei Zhong](https://twitter.com/Zhong_You_Wei/)
 
 ### Latest Work
 
-[an unoffcial student-only forum of John Class](https://john.sjtu.app/)
+[an unofficial student-only forum of John Class](https://john.sjtu.app/)
 
 ### To-learn List
 
 - Probability
-- Data stractures
+- Data structures
 - Programming language Theory
 
 ### Interests
