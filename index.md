@@ -1,12 +1,10 @@
-## Youwei Zhong
+## **Zhong Youwei 钟有为** (a.k.a. **Danny Zhong** or **Danny**)
 
 A normal undergraduate.
 
-### **Zhong Youwei** (a.k.a. **Danny Zhong** or **Danny**)
+I am a student of [John Hopcroft Class](https://en.zhiyuan.sjtu.edu.cn/en/news/116/detail) (John Class) at [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/en), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
-I am a student of John Hopcroft Class (John Class) at Zhiyuan College, Shanghai Jiao Tong University.
-
-Email: zhongyouwei@sjtu.edu.cn
+Email: [zhongyouwei@sjtu.edu.cn](mailto:zhongyouwei@sjtu.edu.cn)
 
 Blog: [Danny2003](https://www.cnblogs.com/Danny2003/)
 
@@ -16,8 +14,8 @@ Twitter: [Youwei Zhong](https://twitter.com/Zhong_You_Wei/)
 
 ### Education
 
-Shanghai High School
-Shanghai Jiao Tong University
+- Shanghai High School
+- Shanghai Jiao Tong University
 
 ### Latest Work
 
