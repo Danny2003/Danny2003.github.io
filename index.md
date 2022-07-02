@@ -1,4 +1,6 @@
-## **Zhong Youwei 钟有为** (a.k.a. **Danny Zhong** or **Danny**)
+## Zhong Youwei 钟有为
+
+### Profile of **Zhong Youwei 钟有为** (a.k.a. **Danny Zhong** or **Danny**)
 
 A normal undergraduate.
 
