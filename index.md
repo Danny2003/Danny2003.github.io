@@ -29,7 +29,7 @@ Twitter: [Youwei Zhong](https://twitter.com/Zhong_You_Wei/)
 - Data stractures
 - Programming language Theory
 
-### Interest
+### Interests
 
 - Rock music
 - Movies
